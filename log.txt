@@ -1,0 +1,17 @@
+Wed Sep  2 00:32:59 2020 [1;31mc:/Users/HP/Desktop/Github/Fill-google-form-from-google-sheets/code.gs(11): error C1999: syntax error.
+[2;37;0m
+Wed Sep  2 00:32:59 2020 [1;31mc:/Users/HP/Desktop/Github/Fill-google-form-from-google-sheets/code.gs(11): error C1999: Illegal statement.
+[2;37;0m
+Wed Sep  2 00:32:59 2020 [1;31mc:/Users/HP/Desktop/Github/Fill-google-form-from-google-sheets/code.gs(13): error C1999: syntax error.
+[2;37;0m
+Wed Sep  2 00:32:59 2020 [1;31mc:/Users/HP/Desktop/Github/Fill-google-form-from-google-sheets/code.gs(13): error C1999: Illegal statement.
+[2;37;0m
+Wed Sep  2 00:32:59 2020 [1;31mc:/Users/HP/Desktop/Github/Fill-google-form-from-google-sheets/code.gs(31): error C1999: syntax error.
+[2;37;0m
+Wed Sep  2 00:32:59 2020 [1;31mc:/Users/HP/Desktop/Github/Fill-google-form-from-google-sheets/code.gs(31): error C1999: Illegal statement.
+[2;37;0m
+Wed Sep  2 00:32:59 2020 [1;31mc:/Users/HP/Desktop/Github/Fill-google-form-from-google-sheets/code.gs(33): error C1999: syntax error.
+[2;37;0m
+Wed Sep  2 00:32:59 2020 [1;31mc:/Users/HP/Desktop/Github/Fill-google-form-from-google-sheets/code.gs(33): error C1999: Illegal statement.
+[2;37;0m
+Wed Sep  2 00:32:59 2020  At /code.gs
